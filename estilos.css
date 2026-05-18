@@ -1,3 +1,28 @@
 body {
     background-color: rgb(206, 255, 239);
 }
+.barra_nav{
+    text-align: justify ;
+    color: blue;
+}
+
+.busqueda{
+    justify-content: center;
+}
+.contenedor {
+    background-color: rgb(109, 205, 243);
+    color: rgb(15, 83, 209);
+    justify-content: right;
+    width: 800px;
+    padding: 190px;
+}
+.contenedor-text{
+    justify-content: left;
+    margin-left: 20px;
+}
+
+.contenedor-img{
+    width: 100px;
+    width: 100px;
+    margin-left: 400px;
+}
